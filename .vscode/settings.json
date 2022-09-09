@@ -1,0 +1,30 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "database": "prontocardio",
+            "username": "root",
+            "name": "teste",
+            "password": ""
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "us-cdbr-east-06.cleardb.net",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "dbherok",
+            "database": "heroku_2d0b2d5ae5ba468",
+            "username": "b5d0ac1c375237",
+            "password": "0c9fc5d8"
+        }
+    ]
+}
